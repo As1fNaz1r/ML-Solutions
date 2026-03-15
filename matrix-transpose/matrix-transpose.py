@@ -1,5 +1,4 @@
-import numpy as np
-
+import numpy as np``
 def matrix_transpose(A):
     rows = len(A)
     cols = len(A[0])
